@@ -35,3 +35,7 @@
             <title>NICK HD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/3month/3month/19421.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICK HD</link> 
         </item>
+        <item> 
+            <title>ANIMAL PLANET</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/3month/3month/19410.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANIMAL PLANET</link> 
+        </item>
