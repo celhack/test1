@@ -31,3 +31,7 @@
             <title>IFC</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/3month/3month/17384.ts&amp;streamtype=TSDOWNLOADER&amp;name=IFC</link> 
         </item>
+        <item> 
+            <title>NICK HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/3month/3month/19421.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICK HD</link> 
+        </item>
