@@ -43,3 +43,7 @@
             <title>USA</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/3month/3month/19401.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA</link> 
         </item>
+        <item> 
+            <title>FIGHT BOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/3month/3month/19403.ts&amp;streamtype=TSDOWNLOADER&amp;name=FIGHT BOX HD</link> 
+        </item>
