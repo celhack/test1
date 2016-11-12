@@ -27,3 +27,7 @@
             <title>T+E</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/3month/3month/17385.ts&amp;streamtype=TSDOWNLOADER&amp;name=T+E</link> 
         </item>
+        <item> 
+            <title>IFC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/3month/3month/17384.ts&amp;streamtype=TSDOWNLOADER&amp;name=IFC</link> 
+        </item>
