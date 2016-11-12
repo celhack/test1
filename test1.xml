@@ -19,3 +19,11 @@
             <title>FAMILY CHANNEL</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/3month/3month/17391.ts&amp;streamtype=TSDOWNLOADER&amp;name=FAMILY CHANNEL</link> 
         </item>
+        <item> 
+            <title>HSN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/3month/3month/17386.ts&amp;streamtype=TSDOWNLOADER&amp;name=HSN</link> 
+        </item>
+        <item> 
+            <title>T+E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/3month/3month/17385.ts&amp;streamtype=TSDOWNLOADER&amp;name=T+E</link> 
+        </item>
