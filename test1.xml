@@ -39,3 +39,7 @@
             <title>ANIMAL PLANET</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/3month/3month/19410.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANIMAL PLANET</link> 
         </item>
+        <item> 
+            <title>USA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/3month/3month/19401.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA</link> 
+        </item>
