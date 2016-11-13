@@ -59,3 +59,7 @@
             <title>HISTORY HD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/3month/3month/19402.ts&amp;streamtype=TSDOWNLOADER&amp;name=HISTORY HD</link> 
         </item>
+             <item> 
+            <title>CNN USA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/3month/3month/19407.ts&amp;streamtype=TSDOWNLOADER&amp;name=CNN USA</link> 
+        </item>
