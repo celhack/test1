@@ -47,3 +47,15 @@
             <title>FIGHT BOX HD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/3month/3month/19403.ts&amp;streamtype=TSDOWNLOADER&amp;name=FIGHT BOX HD</link> 
         </item>
+        <item> 
+            <title>TBS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/3month/3month/19405.ts&amp;streamtype=TSDOWNLOADER&amp;name=TBS</link> 
+        </item>
+         <item> 
+            <title>ESPN2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/3month/3month/19406.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESPN2</link> 
+        </item>
+           <item> 
+            <title>HISTORY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/3month/3month/19402.ts&amp;streamtype=TSDOWNLOADER&amp;name=HISTORY HD</link> 
+        </item>
