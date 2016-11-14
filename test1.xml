@@ -64,6 +64,106 @@
             <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/3month/3month/19407.ts&amp;streamtype=TSDOWNLOADER&amp;name=CNN USA</link> 
         </item>
         <item> 
-            <title>ANIME TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=ANIME TV</link> 
+            <title>TSN1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.zeebra.tv:8000/live/tiger009/tiger009/2817.ts&amp;streamtype=TSDOWNLOADER&amp;name=TSN1</link> 
+        </item>
+        <item> 
+            <title>VERSUS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.zeebra.tv:8000/live/tiger009/tiger009/2484.ts&amp;streamtype=TSDOWNLOADER&amp;name=VERSUS</link> 
+        </item>
+        <item> 
+            <title>TBS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/19390.ts&amp;streamtype=TSDOWNLOADER&amp;name=TBS</link> 
+        </item>
+        <item> 
+            <title>ESPN2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/19391.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESPN2</link> 
+        </item>
+        <item> 
+            <title>TNT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/19398.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT</link> 
+        </item>
+        <item> 
+            <title>SYFY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/19399.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY</link> 
+        </item>
+          <item> 
+            <title>O21 NEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/19405.ts&amp;streamtype=TSDOWNLOADER&amp;name=O21 NEWS</link> 
+        </item>
+          <item> 
+            <title>NICKELODEON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/19400.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON</link> 
+        </item>
+          <item> 
+            <title>FOX NEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/19403.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX NEWS</link> 
+        </item>
+          <item> 
+            <title>ESNP HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/19404.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESPN HD</link> 
+        </item>
+          <item> 
+            <title>COMEDY CENTRAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/19406.ts&amp;streamtype=TSDOWNLOADER&amp;name=COMEDY CENTRAL</link> 
+        </item>
+            <item> 
+            <title>HBO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/19414.ts&amp;streamtype=TSDOWNLOADER&amp;name=HBO HD</link> 
+        </item>
+            <item> 
+            <title>HBO EAST</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/19415.ts&amp;streamtype=TSDOWNLOADER&amp;name=HBO EAST</link> 
+        </item>
+            <item> 
+            <title>DISCOVERY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/19416.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY HD</link> 
+        </item>
+            <item> 
+            <title>TSN5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/19383.ts&amp;streamtype=TSDOWNLOADER&amp;name=TSN5</link> 
+        </item>
+              <item> 
+            <title>TSN3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/19385.ts&amp;streamtype=TSDOWNLOADER&amp;name=TSN3</link> 
+        </item>
+              <item> 
+            <title>TSN1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/19387.ts&amp;streamtype=TSDOWNLOADER&amp;name=TSN1</link> 
+        </item>
+              <item> 
+            <title>H2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/19424.ts&amp;streamtype=TSDOWNLOADER&amp;name=H2</link> 
+        </item>
+              <item> 
+            <title>FREE FORM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/19426.ts&amp;streamtype=TSDOWNLOADER&amp;name=FREE FORM</link> 
+        </item>
+              <item> 
+            <title>DIY NETWORK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/19429.ts&amp;streamtype=TSDOWNLOADER&amp;name=DIY NETWORK</link> 
+        </item>
+                <item> 
+            <title>CINEMAX EAST</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/19431.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINEMAX EAST</link> 
+        </item>
+              <item> 
+            <title>TVO KIDS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/17344.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVO KIDS HD</link> 
+        </item>
+              <item> 
+            <title>TVO KIDS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/17369.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVO KIDS</link> 
+        </item>
+              <item> 
+            <title>DIY NETWORK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/19429.ts&amp;streamtype=TSDOWNLOADER&amp;name=DIY NETWORK</link> 
+        </item>
+              <item> 
+            <title>CRCOL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/17396.ts&amp;streamtype=TSDOWNLOADER&amp;name=CRCOL HD</link> 
+        </item>
+              <item> 
+            <title>BLOOMBERG</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/17402.ts&amp;streamtype=TSDOWNLOADER&amp;name=BLOOMBERG</link> 
         </item>
