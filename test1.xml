@@ -1,5 +1,13 @@
  <streamingInfos>
           <item> 
+            <title>Boomerang</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/00000/00001/444.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boomerang</link> 
+        </item>
+          <item> 
+            <title>Disney XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/00000/00001/493.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney XD</link> 
+        </item> 
+          <item> 
             <title>PREMIUN CINEMA HD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/323.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIUN CINEMA HD</link> 
         </item> 
