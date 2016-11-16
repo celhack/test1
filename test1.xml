@@ -1,5 +1,17 @@
  <streamingInfos>
           <item> 
+            <title>Nick Toons</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/00000/00001/503.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nick Toons</link> 
+        </item>
+          <item> 
+            <title>Cartoon Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/00000/00001/522.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cartoon Network</link> 
+        </item>
+          <item> 
+            <title>Disney Movie</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/00000/00001/516.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Movie</link> 
+        </item>
+          <item> 
             <title>Boomerang</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/00000/00001/444.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boomerang</link> 
         </item>
